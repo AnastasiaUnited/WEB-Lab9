@@ -31,6 +31,8 @@
       "@styles/*": ["styles/*"],
       "@hooks/*": ["hooks/*"],
       "@utils/*": ["utils/*"],
+      "@services/*": ["services/*"],
+      "@assets/*": ["assets/*"],
     }
   },
   "include": ["src"]
