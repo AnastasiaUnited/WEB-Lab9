@@ -7,7 +7,7 @@ const API_KEY = import.meta.env.VITE_API_KEY;
 const PORT = import.meta.env.VITE_PORT;
 
 function App() {
-    const title = 'Hello World!';
+    const title = 'New txt!';
 
     return (
         <div className="flex items-center justify-center w-full h-full tg">
